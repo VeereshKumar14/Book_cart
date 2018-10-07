@@ -1,0 +1,73 @@
+#b{
+	margin-top: 75px;
+	margin-left: 450px;
+	margin-right: 500px;
+    border-radius: 8px;
+    background-color:white;
+    padding: 20px;
+    
+    border:2px solid lightgray;
+    display:flex;
+   flex-wrap: wrap ;
+   justify-content: center;
+font-family: 'Roboto', sans-serif;
+
+letter-spacing: .25px;
+}
+#Sign{
+	font-size: 30px;
+	color: soild black;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+}
+p{
+	margin: 0px;
+}
+#p{
+	font-size: 14px;
+}
+input{
+
+
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	border-bottom:1px solid lightgray;
+	width: 300px;
+height: 20px;
+
+
+
+}
+/*input:focus {
+border:none;
+    border-bottom:1px solid yellow;
+}*/
+
+a:hover{
+	text-align: left;
+	background-color: yellow;
+	text-decoration: none;
+
+}
+a{
+	text-decoration: none;
+}
+span
+{
+	color: blue;
+}
+#button{
+	
+	
+      width: 100px;
+      height:40px;
+      color: white;
+      border-bottom: blue;
+      border-radius: 8px;
+     font-size: 14px;
+}
+#name{
+	text-transform: uppercase;
+}
